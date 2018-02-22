@@ -235,7 +235,34 @@ border-radius: 10% ;
 background-color:rgb(102, 102, 255); 
 transform: translate(0,80px);
 } 
- 
+
+.book{
+  width: 70px;
+  height: 90px;
+  transform: translate(0,70px);
+  border-radius: 5%;
+  background-color: darkgreen;
+  box-shadow: 5px 5px 0px grey;
+}
+.book_title{
+  width: 40px;
+  height: 30px;
+  transform: translate(0,-5px);
+  border-radius: 10%;
+  background-color: lightgrey;
+  border:1px solid grey;
+}
+.ability{
+  font-size: 25px;  
+  font-family: 'Square721 BT','Montserrat', sans-serif; 
+}
+.ability tr th{ 
+  padding: 10px;
+}
+.ability tr th:hover,.ability tr td:hover{
+  color: white;
+  background-color: rgb(191, 128, 64);
+}
 .section_Complement{ font-family:  'Buxton Sketch','Square721 BT','Montserrat', sans-serif;  }
 
 .portfolio{ 
@@ -254,6 +281,7 @@ transform: translate(0,80px);
 .portfolio_text{
   background-color: white;
   color: black;
+  padding: 5px;
   font-family: 'Square721 BT','Montserrat', sans-serif; 
 }
 .more{
@@ -314,4 +342,18 @@ transform: translate(0,80px);
 
 .works_page{
   padding: 5%;
+  background-image: linear-gradient(rgba(0,0,0,0.5) 1px, transparent 0),linear-gradient(90deg ,rgba(0,0,0,0.5) 1px, transparent 0);
+    background-size: 25px 25px; 
+}
+.work_header{
+  width: 100%;
+  height: 50vh;
+  text-align: center;
+  color: brown;
+  font-family: 'Buxton Sketch','Square721 BT','Montserrat', sans-serif;
+
+} 
+.line_height{ 
+  line-height: 40vh;
+  font-size: 8vw;
 }
