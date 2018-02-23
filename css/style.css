@@ -24,7 +24,7 @@ a{text-decoration: none;}
    color: yellow;
    font-size: 25px;
     padding: 10px; 
-    font-family:'John Handy LET Plain', 'Staccato222 BT','Square721 BT','Montserrat', sans-serif;
+    font-family:SteinAntik, SaginawBold, sans-serif;
  }
  .navbar-toggler{
   float: right;
@@ -46,7 +46,8 @@ a{text-decoration: none;}
   float: right;
   padding: 20px;
   color: white; 
-  font-family: 'Square721 BT','Montserrat', sans-serif;
+  font-family:SteinAntik, SaginawBold, sans-serif;
+ 
  } 
 
 .fixed-top{position: fixed;top: 0;left: 0;}
@@ -142,7 +143,7 @@ a{text-decoration: none;}
     color: black;
     transform: translate(-50%,-50%);
     font-size: 6vw;
-    font-family:'John Handy LET Plain', 'Staccato222 BT','Square721 BT','Montserrat', sans-serif;
+    font-family:SteinAntik , sans-serif;
     text-shadow: 0 0 2vw  white;
   }
   .Electrocardiogram_triangle1,.Electrocardiogram_triangle2,.Electrocardiogram_triangle3,.Electrocardiogram_triangle4{
@@ -156,7 +157,7 @@ a{text-decoration: none;}
   .Electrocardiogram_triangle3{border-top: 25vmin solid white;transform:  translate(85vw);}
   .Electrocardiogram_triangle4{transform:  translate(80vw,-14vmin); border-bottom: 15vmin solid white;}
 .page1>.text{
-    font-family:  'John Handy LET Plain','Square721 BT','Montserrat', sans-serif;
+    font-family: CODE_Light, sans-serif;
     color: rgb(204, 153, 102);
     font-size:6vw;
     animation: jump 1s infinite alternate;}
@@ -254,7 +255,7 @@ transform: translate(0,80px);
 }
 .ability{
   font-size: 25px;  
-  font-family: 'Square721 BT','Montserrat', sans-serif; 
+  font-family: Larabiefont, sans-serif; 
 }
 .ability tr th{ 
   padding: 10px;
@@ -263,7 +264,7 @@ transform: translate(0,80px);
   color: white;
   background-color: rgb(191, 128, 64);
 }
-.section_Complement{ font-family:  'Buxton Sketch','Square721 BT','Montserrat', sans-serif;  }
+.section_Complement{ font-family:  Larabiefont, sans-serif;  }
 
 .portfolio{ 
   margin:10%; 
@@ -273,7 +274,7 @@ transform: translate(0,80px);
   box-shadow: 0 2vmin 4vmin 0 rgba(0, 0, 0, 0.5), 0 3vmin 10vmin 0 rgba(0, 0, 0, 0.49);
 }
 .portfolio_title{
-   font-family:  'John Handy LET Plain','Square721 BT','Montserrat', sans-serif;
+   font-family:  Larabiefont, sans-serif;
     color: rgb(153, 0, 51);
     font-size:6vw;
     padding: 1%;
@@ -282,11 +283,11 @@ transform: translate(0,80px);
   background-color: white;
   color: black;
   padding: 5px;
-  font-family: 'Square721 BT','Montserrat', sans-serif; 
+  font-family: SteinAntik, sans-serif; 
 }
 .more{
   text-align: right;
-  font-family: 'Square721 BT','Montserrat', sans-serif;
+  font-family: Larabiefont, sans-serif;
   padding: 1%;
   font-size:25px;
 }
@@ -309,7 +310,7 @@ transform: translate(0,80px);
   transform: translate(-50%,-50%); 
   color: white; 
   text-shadow: 1px 1px 3px black;
-  font-family:'John Handy LET Plain','Square721 BT','Montserrat', sans-serif;
+  font-family:Larabiefont, sans-serif;
 } 
 .photo:hover .photo_overlay{
   display: block;
@@ -350,7 +351,7 @@ transform: translate(0,80px);
   height: 50vh;
   text-align: center;
   color: brown;
-  font-family: 'Buxton Sketch','Square721 BT','Montserrat', sans-serif;
+  font-family: Larabiefont, sans-serif;
 
 } 
 .line_height{ 
