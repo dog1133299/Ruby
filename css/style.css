@@ -165,7 +165,7 @@ a{text-decoration: none;}
   width: 250px;
   height: 250px;
   background-color: lightblue;
-  background: url(../src/img/photo.jpg);
+  background: url(../src/img/photo.webp);
   background-size: contain;
   border-radius: 50%;
   cursor: pointer;
