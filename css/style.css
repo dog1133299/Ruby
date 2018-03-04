@@ -275,9 +275,9 @@ transform: translate(0,80px);
 }
 .portfolio_title{
    font-family:  Larabiefont, sans-serif;
-    color: rgb(153, 0, 51);
-    font-size:6vw;
+    color: rgb(250, 250, 255); 
     padding: 1%;
+    background-color: rgb(250, 150, 150);
 }
 .portfolio_text{
   background-color: white;
